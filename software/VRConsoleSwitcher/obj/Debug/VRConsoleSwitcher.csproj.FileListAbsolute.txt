@@ -1,0 +1,14 @@
+C:\Users\dhamwood\source\repos\VRConsoleSwitcher\VRConsoleSwitcher\bin\Debug\VRConsoleSwitcher.exe.config
+C:\Users\dhamwood\source\repos\VRConsoleSwitcher\VRConsoleSwitcher\bin\Debug\VRConsoleSwitcher.exe
+C:\Users\dhamwood\source\repos\VRConsoleSwitcher\VRConsoleSwitcher\bin\Debug\VRConsoleSwitcher.pdb
+C:\Users\dhamwood\source\repos\VRConsoleSwitcher\VRConsoleSwitcher\obj\Debug\VRConsoleSwitcher.csprojAssemblyReference.cache
+C:\Users\dhamwood\source\repos\VRConsoleSwitcher\VRConsoleSwitcher\obj\Debug\VRConsoleSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\dhamwood\source\repos\VRConsoleSwitcher\VRConsoleSwitcher\obj\Debug\VRConsoleSwitcher.exe
+C:\Users\dhamwood\source\repos\VRConsoleSwitcher\VRConsoleSwitcher\obj\Debug\VRConsoleSwitcher.pdb
+D:\VRConsoleSwitcher\VRConsoleSwitcher\bin\Debug\VRConsoleSwitcher.exe.config
+D:\VRConsoleSwitcher\VRConsoleSwitcher\bin\Debug\VRConsoleSwitcher.exe
+D:\VRConsoleSwitcher\VRConsoleSwitcher\bin\Debug\VRConsoleSwitcher.pdb
+D:\VRConsoleSwitcher\VRConsoleSwitcher\obj\Debug\VRConsoleSwitcher.csprojAssemblyReference.cache
+D:\VRConsoleSwitcher\VRConsoleSwitcher\obj\Debug\VRConsoleSwitcher.csproj.CoreCompileInputs.cache
+D:\VRConsoleSwitcher\VRConsoleSwitcher\obj\Debug\VRConsoleSwitcher.exe
+D:\VRConsoleSwitcher\VRConsoleSwitcher\obj\Debug\VRConsoleSwitcher.pdb

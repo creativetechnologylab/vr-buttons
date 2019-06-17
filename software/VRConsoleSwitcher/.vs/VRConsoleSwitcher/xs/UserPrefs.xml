@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B23063BD-FCC5-4526-9A6A-05DC3D51B51F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PortDataReceived.cs">
+    <Files>
+      <File FileName="PortDataReceived.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.VRConsoleSwitcher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
